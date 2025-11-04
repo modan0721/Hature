@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Hature</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Hature</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Tue, 04 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/miao/</link>
       <pubDate>Tue, 04 Nov 2025 12:35:14 +0800</pubDate>
       <guid>http://localhost:1313/posts/miao/</guid>
-      <description>&lt;p&gt;1548485649&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;喵&#34;&gt;喵&lt;/h1&gt;&#xA;&lt;p&gt;依然空空荡荡&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
