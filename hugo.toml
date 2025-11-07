@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://yourusername.github.io/repository/"
 defaultContentLanguage = "en"
 # Automatically generate robots.txt
 enableRobotsTXT = true
